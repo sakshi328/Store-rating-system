@@ -16,7 +16,7 @@ app.use("/api/admin", adminRoutes);
 
 // TEST ROUTE
 app.get("/", (req, res) => {
-  res.send("Server running 🚀");
+  res.send("Server running ");
 });
 
 module.exports = app;

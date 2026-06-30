@@ -25,7 +25,7 @@ exports.getStores = (req, res) => {
   });
 };
 
-// ⭐ GET STORES WITH AVERAGE RATING (IMPORTANT FIX)
+//  GET STORES WITH AVERAGE RATING (IMPORTANT FIX)
 exports.getStoresWithRating = (req, res) => {
   const sql = `
     SELECT 

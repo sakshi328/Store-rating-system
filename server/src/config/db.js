@@ -15,12 +15,12 @@ const db = mysql.createConnection({
 
 db.connect((err) => {
   if (err) {
-    console.log("❌ Database Connection Failed");
+    console.log(" Database Connection Failed");
     console.log(err.message);
     return;
   }
 
-  console.log("✅ MySQL Connected Successfully");
+  console.log(" MySQL Connected Successfully");
 });
 
 module.exports = db;
