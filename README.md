@@ -58,8 +58,5 @@ POST /api/ratings/rate
 Sakshi Patil
 
 
-<img width="921" height="853" alt="Screenshot 2026-06-30 182526" src="https://github.com/user-attachments/assets/053abb91-7a59-49a9-b36b-2eabd4250a8f" />
-<img width="917" height="845" alt="Screenshot 2026-06-30 182357" src="https://github.com/user-attachments/assets/3111b158-0aa7-4eda-a8af-dc244f5bd05a" />
-
 
 
